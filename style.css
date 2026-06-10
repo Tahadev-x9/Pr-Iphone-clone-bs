@@ -96,43 +96,137 @@
 }
 
 
+/* ===== Footer ===== */
 
-
-.container3 line{
-    display: flex;
+.gen-footer{
+    background: #f5f5f7;
+    color: #6e6e73;
+    font-size: 12px;
+    line-height: 1.6;
+    padding: 30px 0;
 }
+
+.footer-note p{
+    margin-bottom: 12px;
+}
+
+.gen-footer hr{
+    border: none;
+    border-top: 1px solid #d2d2d7;
+    margin: 20px 0;
+}
+
+/* Footer Links */
 
 .row-footer-links{
     display: flex;
     flex-wrap: wrap;
-    list-style-type: none;
-    
+    justify-content: space-between;
+    gap: 20px;
 }
-@media (max-width: 700px) {
-  .footer-footer-links{
-    width: 80%;
-  }
+
+.row-footer-links h6{
+    color: #1d1d1f;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.row-footer-links ul{
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.row-footer-links li{
+    margin-bottom: 8px;
 }
 
 .row-footer-links a{
     text-decoration: none;
-    color:  grey   ;
+    color: #6e6e73;
+    transition: 0.3s;
 }
-ul{
-    list-style-type: none;
-    display: inline;
- padding: 0;
-    margin: 0;
+
+.row-footer-links a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+
+/* Bottom Section */
+
+.footer-bottom{
+    margin-top: 20px;
+}
+
+.footer-bottom p{
+    margin-bottom: 10px;
+}
+
+.footer-bottom a{
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover{
+    text-decoration: underline;
+}
+
+.footer-legal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
     gap: 10px;
 }
-.gen-footer{
-    list-style: none;
-    text-decoration: none;
+
+.footer-legal p{
+    margin: 0;
 }
+
 .footer-legal a{
+    color: #424245;
     text-decoration: none;
-    color:black ;
+    margin: 0 6px;
 }
+
+.footer-legal a:hover{
+    text-decoration: underline;
+}
+
 .country{
-    text-align: right;
+    font-size: 12px;
+    color: #424245;
+}
+
+/* Responsive */
+
+@media (max-width: 992px){
+    .row-footer-links{
+        gap: 30px;
+    }
+
+    .row-footer-links > div{
+        width: 45%;
+    }
+}
+
+@media (max-width: 768px){
+
+    .row-footer-links{
+        flex-direction: column;
+    }
+
+    .row-footer-links > div{
+        width: 100%;
+    }
+
+    .footer-legal{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .country{
+        margin-top: 5px;
+    }
 }
