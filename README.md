@@ -11,6 +11,7 @@ Bootstrap was used to create the layout, navigation bar, grid system, and respon
 Key Features:
 
 
+
 Responsive Bootstrap layout
 Apple-inspired landing page design
 Navigation bar and hero section

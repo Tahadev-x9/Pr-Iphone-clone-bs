@@ -217,21 +217,23 @@
         flex-direction: column;
     }
 
+    
     .row-footer-links > div{
         width: 100%;
     }
+
 
     .footer-legal{
         flex-direction: column;
         align-items: flex-start;
     }
 
+
+
     .country{
         margin-top: 5px;
     }
+
+
 }
-
-
-
-
 
