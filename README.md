@@ -26,6 +26,12 @@ CSS3
 GitHub
 Netlify
 
+# Things what i learned: 
+Custom used of bootstrap 
+Different type of css in line
+Quality making product
+Responsive work conclude 
+
 
 # Note: 
 This project includes only the front page of the website and was created for practicing front-end development and responsive web design skills.
