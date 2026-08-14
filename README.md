@@ -29,3 +29,8 @@ Netlify
 
 # Note: 
 This project includes only the front page of the website and was created for practicing front-end development and responsive web design skills.
+The iphone front pages defines the way of thinking as on apple product.
+Project includes different types of products as uasage an quality and estimated content.
+
+
+
