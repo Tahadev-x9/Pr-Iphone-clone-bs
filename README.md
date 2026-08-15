@@ -4,7 +4,7 @@
 
 # Project summary : 
 
-I developed an iPhone website front-page clone using Bootstrap, HTML and CSS. The project replicates the look and feel of a modern Apple-style landing page, focusing on responsive design and clean user interface elements.
+I developed an iPhone website front-page clone using Bootstrap, HTML and CSS. The project replicates the look and feel of a modvhjdkddjeeheneneneneern Apple-style landing page, focusing on responsive design and clean user interface elements.
 
 Bootstrap was used to create the layout, navigation bar, grid system, and responsive components, while custom CSS was added to enhance the styling and closely match the original design. JavaScript was used for basic interactivity and user experience improvements.
 
