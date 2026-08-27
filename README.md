@@ -40,5 +40,7 @@ This project includes only the front page of the website and was created for pra
 The iphone front pages defines the way of thinking as on apple product.
 Project includes different types of products as uasage an quality and estimated content.
 
+regards  : 
+    Taha dev
 
 
