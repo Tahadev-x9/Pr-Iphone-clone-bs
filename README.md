@@ -1,6 +1,5 @@
-# Netlify preview link : 
-                        hmkLsheiaebanq8abdbsosbhoz7tsuts7ts7ts7ts7tsutss    
-                          https://iphonex9.netlify.app/
+# Netlify preview link :
+     https://iphonex9.netlify.app/
 
 # Project summary : 
 
