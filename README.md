@@ -1,6 +1,5 @@
-# Netlify preview link :
-     https://iphonex9.netlify.app/
-
+# Netlify preview link: 
+  hllooo mic one one two etc
 # Project summary : 
 
 I developed an iPhone website front-page clone using Bootstrap, HTML and CSS. The project replicates the life span of the web front page
